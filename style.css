@@ -4,7 +4,7 @@ body{
    background-size:cover;
    backdrop-filter: blur(4px); 
    background-repeat: no-repeat; 
-   height: 100vh;
+ 
    display: flex;
   color: rgb(239, 132, 10);
    text-align: center;
