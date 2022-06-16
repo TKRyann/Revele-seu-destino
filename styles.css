@@ -9,7 +9,7 @@ body{
   background-repeat: no-repeat;
   background-size: cover;  
   /*backdrop-filter: blur(3px); */
-  backdrop-filter: grayscale(50%);
+  backdrop-filter: grayscale(65%);
 }  
 img{
    max-width: 350px; 
